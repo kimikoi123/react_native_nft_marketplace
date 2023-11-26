@@ -34,6 +34,7 @@ const Home = () => {
           />
         </View>
 
+
         <View
           style={{
             position: "absolute",
